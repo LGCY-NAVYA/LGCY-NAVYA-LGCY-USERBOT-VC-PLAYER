@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/LgcyAlex/LGCY-USERBOT-VC-PLAYER",
+    "repository": "https://github.com/LGCY-NAVYA/LGCY-USERBOT-VC-PLAYER",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session. Get from @LGcY_STRING_ROBOT",
